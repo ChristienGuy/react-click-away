@@ -1,0 +1,27 @@
+{
+  "name": "react-click-away",
+  "version": "1.0.0",
+  "description": "A React hook that runs when you click somewhere that isn't your component.",
+  "main": "dist/index.js",
+  "module": "dist/index.es.js",
+  "files": [
+    "dist"
+  ],
+  "types": "dist/index.d.ts",
+  "license": "MIT",
+  "scripts": {
+    "build": "rollup -c",
+    "watch": "rollup -cw"
+  },
+  "devDependencies": {
+    "@types/react": "^16.8.17",
+    "rollup": "^1.11.3",
+    "rollup-plugin-typescript2": "^0.21.0",
+    "rollup-plugin-generate-package-json": "^3.1.2",
+    "typescript": "^3.4.5"
+  },
+  "dependencies": {},
+  "peerDependencies": {
+    "react": "^16.8.0"
+  }
+}
