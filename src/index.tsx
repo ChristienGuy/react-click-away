@@ -22,7 +22,7 @@ const useClickAway = (onClickAway: (e: MouseEvent) => void) => {
     };
   }, [node, onClickAway]);
 
-  return [nodeRef];
+  return nodeRef;
 };
 
 export default useClickAway;
