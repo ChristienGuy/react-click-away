@@ -1,5 +1,5 @@
 {
-  "name": "react-click-away",
+  "name": "react-click-away-hook",
   "version": "1.0.0",
   "description": "A React hook that runs when you click somewhere that isn't your component.",
   "main": "dist/index.js",
