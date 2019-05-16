@@ -1,11 +1,16 @@
 {
   "name": "react-click-away-hook",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A React hook that runs when you click somewhere that isn't your component.",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "files": [
     "dist"
+  ],
+  "keywords": [
+    "react",
+    "hook",
+    "click away"
   ],
   "types": "dist/index.d.ts",
   "license": "MIT",
