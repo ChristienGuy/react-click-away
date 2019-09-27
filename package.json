@@ -21,7 +21,7 @@
   "devDependencies": {
     "@types/react": "^16.8.17",
     "rollup": "^1.11.3",
-    "rollup-plugin-typescript2": "^0.21.0",
+    "rollup-plugin-typescript2": "^0.24.3",
     "rollup-plugin-generate-package-json": "^3.1.2",
     "typescript": "^3.4.5"
   },
